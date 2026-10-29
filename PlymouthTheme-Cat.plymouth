@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=PlymouthTheme-Cat
-Description=This is a Plymouth theme with a cat animation.
+Description=Cat animation on black with a minimal password field.
 ModuleName=script
 
 [script]
